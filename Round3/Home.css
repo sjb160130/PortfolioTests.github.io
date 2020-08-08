@@ -1,0 +1,971 @@
+.mediaViewInfo {
+	--web-view-name: Home;
+	--web-view-id: Home;
+	--web-scale-on-resize: true;
+	--web-center-horizontally: true;
+	--web-center-vertically: true;
+	--web-enable-deep-linking: true;
+}
+:root {
+	--web-view-ids: Home;
+}
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	border: none;
+}
+.Home_Class {
+	position: absolute;
+	width: 1920px;
+	height: 3255px;
+	background-color: rgba(255,255,255,1);
+	overflow: hidden;
+	--web-view-name: Home;
+	--web-view-id: Home;
+	--web-scale-on-resize: true;
+	--web-center-horizontally: true;
+	--web-center-vertically: true;
+	--web-enable-deep-linking: true;
+}
+.Header_Class {
+	position: absolute;
+	width: 1920px;
+	height: 218px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+.Rectangle_18_Class {
+	fill: rgba(87,87,97,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_18 {
+	position: absolute;
+	overflow: visible;
+	width: 1920px;
+	height: 218px;
+	left: 0px;
+	top: 0px;
+}
+.Path_1_Class {
+	fill: rgba(0,0,0,0);
+	stroke: rgba(201,228,202,1);
+	stroke-width: 3px;
+	stroke-linejoin: miter;
+	stroke-linecap: round;
+	stroke-dasharray: 20;
+	stroke-dashoffset: 0;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Path_1 {
+	overflow: visible;
+	position: absolute;
+	width: 1801.303px;
+	height: 3px;
+	left: 52px;
+	top: 190.675px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Sarah_Besserer_Class {
+	left: 550px;
+	top: 24.957px;
+	position: absolute;
+	overflow: visible;
+	width: 792px;
+	height: 123.78875732421875px;
+	text-align: center;
+	font-family: Alegreya SC;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 90px;
+	color: rgba(201,228,202,1);
+}
+.Component_1__1_Class {
+	position: absolute;
+	width: 245px;
+	height: 72px;
+	left: 773px;
+	top: 136.644px;
+	overflow: visible;
+}
+.UI_UX_Artist_Class {
+	left: 0px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 246px;
+	height: 72px;
+	text-align: right;
+	font-family: Open Sans;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 30px;
+	color: rgba(201,228,202,1);
+}
+.NavBar_Class {
+	position: absolute;
+	width: 425.215px;
+	height: 76.702px;
+	left: 52px;
+	top: 80.161px;
+	overflow: visible;
+}
+.Component_1__2_Class {
+	transform: translate(0px, 0px) matrix(1,0,0,1,288,2.3512) rotate(2deg);
+	transform-origin: center;
+	position: absolute;
+	width: 136px;
+	height: 72px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+.Graphics__Class {
+	left: 0px;
+	top: 0px;
+	position: absolute;
+	overflow: hidden;
+	width: 137px;
+	height: 72px;
+	text-align: right;
+	font-family: Open Sans;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 30px;
+	color: rgba(201,228,202,1);
+}
+.Component_1__3_Class {
+	position: absolute;
+	width: 110px;
+	height: 71.877px;
+	left: 162px;
+	top: 2.347px;
+	overflow: visible;
+}
+.Games__Class {
+	left: 0px;
+	top: 0px;
+	position: absolute;
+	overflow: hidden;
+	width: 111px;
+	height: 71.87734985351562px;
+	text-align: right;
+	font-family: Open Sans;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 30px;
+	color: rgba(201,228,202,1);
+}
+.Component_1__4_Class {
+	position: absolute;
+	width: 146px;
+	height: 71.877px;
+	left: 0px;
+	top: 2.347px;
+	overflow: visible;
+}
+.UIDesign_Class {
+	left: 0px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 147px;
+	height: 71.87734985351562px;
+	text-align: right;
+	font-family: Open Sans;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 30px;
+	color: rgba(201,228,202,1);
+}
+.Line_2_Class {
+	fill: transparent;
+	stroke: rgba(201,228,202,1);
+	stroke-width: 2px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Line_2 {
+	overflow: visible;
+	position: absolute;
+	width: 2px;
+	height: 32.944px;
+	left: 285.5px;
+	top: 5.829px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Line_3_Class {
+	fill: transparent;
+	stroke: rgba(201,228,202,1);
+	stroke-width: 2px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Line_3 {
+	overflow: visible;
+	position: absolute;
+	width: 2px;
+	height: 32.944px;
+	left: 159.5px;
+	top: 5.829px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.UIDesignWork_Class {
+	position: absolute;
+	width: 1887px;
+	height: 2872.714px;
+	left: 17px;
+	top: 286.424px;
+	overflow: visible;
+}
+.Carousel_Class {
+	position: absolute;
+	width: 1887px;
+	height: 1027.247px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+.CarouselThumbs_Class {
+	position: absolute;
+	width: 1786px;
+	height: 1027.247px;
+	left: 51px;
+	top: 0px;
+	overflow: visible;
+}
+.Rectangle_4_Class {
+	fill: rgba(201,228,202,1);
+}
+.Rectangle_4 {
+	position: absolute;
+	overflow: visible;
+	width: 1786px;
+	height: 1027.247px;
+	left: 0px;
+	top: 0px;
+}
+.BackForward_Buttons_Class {
+	position: absolute;
+	width: 1887px;
+	height: 117.799px;
+	left: 0px;
+	top: 434.341px;
+	overflow: visible;
+}
+.Rectangle_12_Class {
+	fill: rgba(135,187,162,1);
+}
+.Rectangle_12 {
+	position: absolute;
+	overflow: visible;
+	width: 143px;
+	height: 117.799px;
+	left: 0px;
+	top: 0px;
+}
+.Polygon_1_Class {
+	fill: rgba(87,87,97,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Polygon_1 {
+	overflow: hidden;
+	position: absolute;
+	width: 67.884px;
+	height: 59px;
+	transform: translate(0px, 0px) matrix(1,0,0,1,26.0579,29.8986) rotate(-90deg);
+	transform-origin: center;
+	left: 0px;
+	top: 0px;
+}
+.Rectangle_13_Class {
+	fill: rgba(135,187,162,1);
+}
+.Rectangle_13 {
+	position: absolute;
+	overflow: visible;
+	width: 143px;
+	height: 117.799px;
+	left: 1744px;
+	top: 0px;
+}
+.Polygon_2_Class {
+	fill: rgba(87,87,97,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Polygon_2 {
+	overflow: hidden;
+	position: absolute;
+	width: 67.884px;
+	height: 59px;
+	transform: translate(0px, 0px) matrix(1,0,0,1,1793.0579,29.8986) rotate(90deg);
+	transform-origin: center;
+	left: 0px;
+	top: 0px;
+}
+.UIDesign_bi_Class {
+	position: absolute;
+	width: 1792px;
+	height: 559.046px;
+	left: 48px;
+	top: 1083.668px;
+	overflow: visible;
+}
+.Component_2__1_Class {
+	position: absolute;
+	width: 544px;
+	height: 559.046px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+.Rectangle_1_Class {
+	fill: rgba(201,228,202,1);
+}
+.Rectangle_1 {
+	position: absolute;
+	overflow: visible;
+	width: 544px;
+	height: 559.046px;
+	left: 0px;
+	top: 0px;
+}
+.Rectangle_2_Class {
+	fill: rgba(135,187,162,1);
+}
+.Rectangle_2 {
+	position: absolute;
+	overflow: visible;
+	width: 544px;
+	height: 172.046px;
+	left: 0px;
+	top: 387px;
+}
+.Rectangle_3_Class {
+	fill: rgba(87,87,97,1);
+}
+.Rectangle_3 {
+	position: absolute;
+	overflow: visible;
+	width: 268px;
+	height: 109.046px;
+	left: 132px;
+	top: 348px;
+}
+.Project_1_Class {
+	left: 141px;
+	top: 347.262px;
+	position: absolute;
+	overflow: visible;
+	width: 245px;
+	height: 110px;
+	text-align: center;
+	font-family: Open Sans;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 40px;
+	color: rgba(201,228,202,1);
+}
+.Lorem_ipsum_dolor_sit_amet_con_Class {
+	left: 0px;
+	top: 466.046px;
+	position: absolute;
+	overflow: visible;
+	width: 545px;
+	height: 93px;
+	text-align: center;
+	font-family: Open Sans;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 18px;
+	color: rgba(87,87,97,1);
+}
+.Component_2__2_Class {
+	position: absolute;
+	width: 544px;
+	height: 559.046px;
+	left: 624px;
+	top: 0px;
+	overflow: visible;
+}
+.Rectangle_1_bq_Class {
+	fill: rgba(201,228,202,1);
+}
+.Rectangle_1_bq {
+	position: absolute;
+	overflow: visible;
+	width: 544px;
+	height: 559.046px;
+	left: 0px;
+	top: 0px;
+}
+.Rectangle_2_br_Class {
+	fill: rgba(135,187,162,1);
+}
+.Rectangle_2_br {
+	position: absolute;
+	overflow: visible;
+	width: 544px;
+	height: 172.046px;
+	left: 0px;
+	top: 387px;
+}
+.Rectangle_3_bs_Class {
+	fill: rgba(87,87,97,1);
+}
+.Rectangle_3_bs {
+	position: absolute;
+	overflow: visible;
+	width: 268px;
+	height: 109.046px;
+	left: 132px;
+	top: 348px;
+}
+.Project_1_bt_Class {
+	left: 141px;
+	top: 347.262px;
+	position: absolute;
+	overflow: visible;
+	width: 245px;
+	height: 110px;
+	text-align: center;
+	font-family: Open Sans;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 40px;
+	color: rgba(201,228,202,1);
+}
+.Lorem_ipsum_dolor_sit_amet_con_bu_Class {
+	left: 0px;
+	top: 466.046px;
+	position: absolute;
+	overflow: visible;
+	width: 545px;
+	height: 93px;
+	text-align: center;
+	font-family: Open Sans;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 18px;
+	color: rgba(87,87,97,1);
+}
+.Component_2__3_Class {
+	position: absolute;
+	width: 544px;
+	height: 559.046px;
+	left: 1248px;
+	top: 0px;
+	overflow: visible;
+}
+.Rectangle_1_bw_Class {
+	fill: rgba(201,228,202,1);
+}
+.Rectangle_1_bw {
+	position: absolute;
+	overflow: visible;
+	width: 544px;
+	height: 559.046px;
+	left: 0px;
+	top: 0px;
+}
+.Rectangle_2_bx_Class {
+	fill: rgba(135,187,162,1);
+}
+.Rectangle_2_bx {
+	position: absolute;
+	overflow: visible;
+	width: 544px;
+	height: 172.046px;
+	left: 0px;
+	top: 387px;
+}
+.Rectangle_3_by_Class {
+	fill: rgba(87,87,97,1);
+}
+.Rectangle_3_by {
+	position: absolute;
+	overflow: visible;
+	width: 268px;
+	height: 109.046px;
+	left: 132px;
+	top: 348px;
+}
+.Project_1_bz_Class {
+	left: 141px;
+	top: 347.262px;
+	position: absolute;
+	overflow: visible;
+	width: 245px;
+	height: 110px;
+	text-align: center;
+	font-family: Open Sans;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 40px;
+	color: rgba(201,228,202,1);
+}
+.Lorem_ipsum_dolor_sit_amet_con_b_Class {
+	left: 0px;
+	top: 466.046px;
+	position: absolute;
+	overflow: visible;
+	width: 545px;
+	height: 93px;
+	text-align: center;
+	font-family: Open Sans;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 18px;
+	color: rgba(87,87,97,1);
+}
+.UIDesign_b_Class {
+	position: absolute;
+	width: 1792px;
+	height: 559.046px;
+	left: 48px;
+	top: 1698.668px;
+	overflow: visible;
+}
+.Component_2__13_Class {
+	position: absolute;
+	width: 544px;
+	height: 559.046px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+.Rectangle_1_b_Class {
+	fill: rgba(201,228,202,1);
+}
+.Rectangle_1_b {
+	position: absolute;
+	overflow: visible;
+	width: 544px;
+	height: 559.046px;
+	left: 0px;
+	top: 0px;
+}
+.Rectangle_2_b_Class {
+	fill: rgba(135,187,162,1);
+}
+.Rectangle_2_b {
+	position: absolute;
+	overflow: visible;
+	width: 544px;
+	height: 172.046px;
+	left: 0px;
+	top: 387px;
+}
+.Rectangle_3_b_Class {
+	fill: rgba(87,87,97,1);
+}
+.Rectangle_3_b {
+	position: absolute;
+	overflow: visible;
+	width: 268px;
+	height: 109.046px;
+	left: 132px;
+	top: 348px;
+}
+.Project_1_b_Class {
+	left: 141px;
+	top: 347.262px;
+	position: absolute;
+	overflow: visible;
+	width: 245px;
+	height: 110px;
+	text-align: center;
+	font-family: Open Sans;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 40px;
+	color: rgba(201,228,202,1);
+}
+.Lorem_ipsum_dolor_sit_amet_con_ca_Class {
+	left: 0px;
+	top: 466.046px;
+	position: absolute;
+	overflow: visible;
+	width: 545px;
+	height: 93px;
+	text-align: center;
+	font-family: Open Sans;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 18px;
+	color: rgba(87,87,97,1);
+}
+.Component_2__14_Class {
+	position: absolute;
+	width: 544px;
+	height: 559.046px;
+	left: 624px;
+	top: 0px;
+	overflow: visible;
+}
+.Rectangle_1_ca_Class {
+	fill: rgba(201,228,202,1);
+}
+.Rectangle_1_ca {
+	position: absolute;
+	overflow: visible;
+	width: 544px;
+	height: 559.046px;
+	left: 0px;
+	top: 0px;
+}
+.Rectangle_2_ca_Class {
+	fill: rgba(135,187,162,1);
+}
+.Rectangle_2_ca {
+	position: absolute;
+	overflow: visible;
+	width: 544px;
+	height: 172.046px;
+	left: 0px;
+	top: 387px;
+}
+.Rectangle_3_cb_Class {
+	fill: rgba(87,87,97,1);
+}
+.Rectangle_3_cb {
+	position: absolute;
+	overflow: visible;
+	width: 268px;
+	height: 109.046px;
+	left: 132px;
+	top: 348px;
+}
+.Project_1_cc_Class {
+	left: 141px;
+	top: 347.262px;
+	position: absolute;
+	overflow: visible;
+	width: 245px;
+	height: 110px;
+	text-align: center;
+	font-family: Open Sans;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 40px;
+	color: rgba(201,228,202,1);
+}
+.Lorem_ipsum_dolor_sit_amet_con_cd_Class {
+	left: 0px;
+	top: 466.046px;
+	position: absolute;
+	overflow: visible;
+	width: 545px;
+	height: 93px;
+	text-align: center;
+	font-family: Open Sans;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 18px;
+	color: rgba(87,87,97,1);
+}
+.Component_2__15_Class {
+	position: absolute;
+	width: 544px;
+	height: 559.046px;
+	left: 1248px;
+	top: 0px;
+	overflow: visible;
+}
+.Rectangle_1_cf_Class {
+	fill: rgba(201,228,202,1);
+}
+.Rectangle_1_cf {
+	position: absolute;
+	overflow: visible;
+	width: 544px;
+	height: 559.046px;
+	left: 0px;
+	top: 0px;
+}
+.Rectangle_2_cg_Class {
+	fill: rgba(135,187,162,1);
+}
+.Rectangle_2_cg {
+	position: absolute;
+	overflow: visible;
+	width: 544px;
+	height: 172.046px;
+	left: 0px;
+	top: 387px;
+}
+.Rectangle_3_ch_Class {
+	fill: rgba(87,87,97,1);
+}
+.Rectangle_3_ch {
+	position: absolute;
+	overflow: visible;
+	width: 268px;
+	height: 109.046px;
+	left: 132px;
+	top: 348px;
+}
+.Project_1_ci_Class {
+	left: 141px;
+	top: 347.262px;
+	position: absolute;
+	overflow: visible;
+	width: 245px;
+	height: 110px;
+	text-align: center;
+	font-family: Open Sans;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 40px;
+	color: rgba(201,228,202,1);
+}
+.Lorem_ipsum_dolor_sit_amet_con_cj_Class {
+	left: 0px;
+	top: 466.046px;
+	position: absolute;
+	overflow: visible;
+	width: 545px;
+	height: 93px;
+	text-align: center;
+	font-family: Open Sans;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 18px;
+	color: rgba(87,87,97,1);
+}
+.UIDesign_ck_Class {
+	position: absolute;
+	width: 1792px;
+	height: 559.046px;
+	left: 48px;
+	top: 2313.668px;
+	overflow: visible;
+}
+.Component_2__16_Class {
+	position: absolute;
+	width: 544px;
+	height: 559.046px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+.Rectangle_1_cm_Class {
+	fill: rgba(201,228,202,1);
+}
+.Rectangle_1_cm {
+	position: absolute;
+	overflow: visible;
+	width: 544px;
+	height: 559.046px;
+	left: 0px;
+	top: 0px;
+}
+.Rectangle_2_cn_Class {
+	fill: rgba(135,187,162,1);
+}
+.Rectangle_2_cn {
+	position: absolute;
+	overflow: visible;
+	width: 544px;
+	height: 172.046px;
+	left: 0px;
+	top: 387px;
+}
+.Rectangle_3_co_Class {
+	fill: rgba(87,87,97,1);
+}
+.Rectangle_3_co {
+	position: absolute;
+	overflow: visible;
+	width: 268px;
+	height: 109.046px;
+	left: 132px;
+	top: 348px;
+}
+.Project_1_cp_Class {
+	left: 141px;
+	top: 347.262px;
+	position: absolute;
+	overflow: visible;
+	width: 245px;
+	height: 110px;
+	text-align: center;
+	font-family: Open Sans;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 40px;
+	color: rgba(201,228,202,1);
+}
+.Lorem_ipsum_dolor_sit_amet_con_cq_Class {
+	left: 0px;
+	top: 466.046px;
+	position: absolute;
+	overflow: visible;
+	width: 545px;
+	height: 93px;
+	text-align: center;
+	font-family: Open Sans;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 18px;
+	color: rgba(87,87,97,1);
+}
+.Component_2__17_Class {
+	position: absolute;
+	width: 544px;
+	height: 559.046px;
+	left: 624px;
+	top: 0px;
+	overflow: visible;
+}
+.Rectangle_1_cs_Class {
+	fill: rgba(201,228,202,1);
+}
+.Rectangle_1_cs {
+	position: absolute;
+	overflow: visible;
+	width: 544px;
+	height: 559.046px;
+	left: 0px;
+	top: 0px;
+}
+.Rectangle_2_ct_Class {
+	fill: rgba(135,187,162,1);
+}
+.Rectangle_2_ct {
+	position: absolute;
+	overflow: visible;
+	width: 544px;
+	height: 172.046px;
+	left: 0px;
+	top: 387px;
+}
+.Rectangle_3_cu_Class {
+	fill: rgba(87,87,97,1);
+}
+.Rectangle_3_cu {
+	position: absolute;
+	overflow: visible;
+	width: 268px;
+	height: 109.046px;
+	left: 132px;
+	top: 348px;
+}
+.Project_1_cv_Class {
+	left: 141px;
+	top: 347.262px;
+	position: absolute;
+	overflow: visible;
+	width: 245px;
+	height: 110px;
+	text-align: center;
+	font-family: Open Sans;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 40px;
+	color: rgba(201,228,202,1);
+}
+.Lorem_ipsum_dolor_sit_amet_con_cw_Class {
+	left: 0px;
+	top: 466.046px;
+	position: absolute;
+	overflow: visible;
+	width: 545px;
+	height: 93px;
+	text-align: center;
+	font-family: Open Sans;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 18px;
+	color: rgba(87,87,97,1);
+}
+.Component_2__18_Class {
+	position: absolute;
+	width: 544px;
+	height: 559.046px;
+	left: 1248px;
+	top: 0px;
+	overflow: visible;
+}
+.Rectangle_1_cy_Class {
+	fill: rgba(201,228,202,1);
+}
+.Rectangle_1_cy {
+	position: absolute;
+	overflow: visible;
+	width: 544px;
+	height: 559.046px;
+	left: 0px;
+	top: 0px;
+}
+.Rectangle_2_cz_Class {
+	fill: rgba(135,187,162,1);
+}
+.Rectangle_2_cz {
+	position: absolute;
+	overflow: visible;
+	width: 544px;
+	height: 172.046px;
+	left: 0px;
+	top: 387px;
+}
+.Rectangle_3_c_Class {
+	fill: rgba(87,87,97,1);
+}
+.Rectangle_3_c {
+	position: absolute;
+	overflow: visible;
+	width: 268px;
+	height: 109.046px;
+	left: 132px;
+	top: 348px;
+}
+.Project_1_c_Class {
+	left: 141px;
+	top: 347.262px;
+	position: absolute;
+	overflow: visible;
+	width: 245px;
+	height: 110px;
+	text-align: center;
+	font-family: Open Sans;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 40px;
+	color: rgba(201,228,202,1);
+}
+.Lorem_ipsum_dolor_sit_amet_con_c_Class {
+	left: 0px;
+	top: 466.046px;
+	position: absolute;
+	overflow: visible;
+	width: 545px;
+	height: 93px;
+	text-align: center;
+	font-family: Open Sans;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 18px;
+	color: rgba(87,87,97,1);
+}
